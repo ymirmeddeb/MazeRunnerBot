@@ -1,7 +1,7 @@
 # MazeRunnerBot
 
 ## Abstract
-The MazeRunnerBot project is a robotic application designed to autonomously navigate through mazes. Utilizing a combination of sensor inputs and programmed logic, the robot detects and maneuvers around obstacles, aiming for the most efficient path to the exit.
+The MazeRunnerBot project is a robotic application designed to autonomously navigate through mazes. Utilizing a combination of sensor inputs and programmed logic, the robot detects and maneuvers around obstacles, aiming for the most efficient path to the exit. A more detailed description of the robot's functionnality is in the MazeRunnerBot_report.pdf file present in this repository.
 
 ## Introduction
 As part of the Computer Engineering curriculum at the National University of Singapore, this project challenges students to apply principles of robotics, computer vision, and algorithmic problem-solving in a practical, hands-on manner.
