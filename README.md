@@ -10,7 +10,7 @@ As part of the Computer Engineering curriculum at the National University of Sin
 The robot is built using the following components:
 - Mainboard: Arduino Uno
 - Motors: 2x DC Motors with wheels
-- Sensors: Ultrasonic distance sensor, line-following sensors
+- Sensors: Ultrasonic distance sensor, line-following sensor, colour sensor
 - Power: 6V battery pack
 
 ## Software
