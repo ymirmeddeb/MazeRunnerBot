@@ -36,3 +36,18 @@ For a detailed setup, refer to the Wiki section of this repository.
 ## Contribution Guidelines
 We welcome contributions to the MazeRunnerBot project! If you have suggestions or improvements, please open an issue or submit a pull request.
 
+## Pictures of the robot
+
+![2024-03-23 16 04 03](https://github.com/ymirmeddeb/MazeRunnerBot/assets/74667654/fbf5975c-077f-41e2-b887-d2259ee97d02)
+
+![2024-03-23 16 03 59](https://github.com/ymirmeddeb/MazeRunnerBot/assets/74667654/8d925482-481d-42df-bd40-bfaab9c4b6ab)
+
+![2024-03-23 16 03 49](https://github.com/ymirmeddeb/MazeRunnerBot/assets/74667654/bedf7055-c81f-4e68-be8a-285e8ad61bf2)
+
+![2024-03-23 16 03 54](https://github.com/ymirmeddeb/MazeRunnerBot/assets/74667654/b8bf87aa-1032-40df-a672-349aa97880c8)
+
+![2024-03-23 16 04 08](https://github.com/ymirmeddeb/MazeRunnerBot/assets/74667654/ce1d0247-8395-4b77-bd3c-9618cd71f9de)
+
+![2024-03-23 16 04 13](https://github.com/ymirmeddeb/MazeRunnerBot/assets/74667654/d6409a6f-5b1b-4f85-a8d9-e9734dccdf20)
+
+![2024-03-23 16 03 40](https://github.com/ymirmeddeb/MazeRunnerBot/assets/74667654/df9841d1-6484-41e2-a1fb-d3ae99b0687d)
