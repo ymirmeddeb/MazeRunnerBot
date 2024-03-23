@@ -31,11 +31,6 @@ The MazeRunnerBot successfully met the project's objectives by demonstrating its
 ## Acknowledgements
 Special thanks to our project supervisor and the NUS College of Design and Engineering for providing resources and support.
 
-For a detailed setup, refer to the Wiki section of this repository.
-
-## Contribution Guidelines
-We welcome contributions to the MazeRunnerBot project! If you have suggestions or improvements, please open an issue or submit a pull request.
-
 ## Pictures of the robot
 
 ![2024-03-23 16 04 03](https://github.com/ymirmeddeb/MazeRunnerBot/assets/74667654/fbf5975c-077f-41e2-b887-d2259ee97d02)
