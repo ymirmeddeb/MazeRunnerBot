@@ -14,7 +14,7 @@ The robot is built using the following components:
 - Power: 6V battery pack
 
 ## Software
-The software controlling the MazeRunnerBot is written in C++ for Arduino. The main features include obstacle detection, path planning, and motor control. The source code is provided in the `Mbot_Code.ino` file within this repository.
+The software controlling the MazeRunnerBot is written in C++ for Arduino. The main features include obstacle detection, path planning, and motor control. The source code is provided in the `code` directory within this repository.
 
 ## Algorithm Overview
 The MazeRunnerBot uses a simple yet effective algorithm to navigate mazes:
